@@ -1,2 +1,3 @@
 print("HELLO WORLD!")
-print("GOODBYE WORLD")
+print("I'M DEAD?!")
+print("GOODBYE WORLD!")
